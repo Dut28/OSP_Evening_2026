@@ -1,4 +1,4 @@
-# OSP Evening 2026 — List of Regular Students
+# OSP Evening 2026 — List of Evening Students
 
 A collaborative list of regular students for OSP Evening 2026.
 Add your name by following the steps below.
