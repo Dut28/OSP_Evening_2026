@@ -27,7 +27,7 @@ This creates your own copy of the repo under your GitHub account.
 3. Scroll to the **last line** and add your row at the bottom, using this format:
 
    ```
-   <next number>,<YOUR FULL NAME>,<your index number>,<your department>
+   <2>,<DUT MAYOM JOHN>,<245>,<Computer science>
    ```
 
    **Example:**
