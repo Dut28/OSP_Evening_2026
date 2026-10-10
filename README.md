@@ -37,7 +37,7 @@ This creates your own copy of the repo under your GitHub account.
 
 4. Scroll down → click **Commit changes**.
 5. Select **Create a new branch for this commit**.
-6. Name the branch: `add-your-name` (e.g. `add-jane-doe`).
+6. Name the branch: `DUT MAYOM JOHN DUT ` (e.g. `add-jane-doe`).
 7. Click **Propose changes**.
 
 ### Step 3 — Open a Pull Request
