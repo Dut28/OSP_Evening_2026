@@ -2,7 +2,7 @@
 
 A collaborative list of regular students for OSP Evening 2026.
 Add your name by following the steps below.
-Dut Mayom John Dut 
+
 ---
 
 ## ⚠️ Important Rules
@@ -27,7 +27,7 @@ This creates your own copy of the repo under your GitHub account.
 3. Scroll to the **last line** and add your row at the bottom, using this format:
 
    ```
-   <2>,<DUT MAYOM JOHN>,<245>,<Computer science>
+   <3>,<DUT MAYOM JOHN>,<22-CCS-245>,<Computer science>
    ```
 
    **Example:**
